@@ -1,7 +1,7 @@
 <h1 align="center">Pentelei Shlemko</h1>
 
 <p align="center">
-  Desenvolvedor Web & Multimédia | Software & Web Solutions
+   Software & Web Solutions
 </p>
 
 ---
@@ -29,27 +29,27 @@ O meu foco está no desenvolvimento de soluções web completas, combinando lóg
 *   MySQL
 
 ### Ferramentas & Ecossistema
-*   Git & GitHub
+*   GitHub
 *   Visual Studio Code
-*   XAMPP / Laragon
+*   XAMPP
 *   phpMyAdmin
 
 ---
 
 ## Idiomas
 
-*   **Português:** Fluente / Nativo
+*   **Português:** Fluente 
 *   **Romeno:** Fluente
-*   **Inglês:** Nível Operacional / Técnico
+*   **Inglês:** Nível Operacional 
 *   **Ucraniano:** Nível Básico
 
 ---
 
 ## Projetos em Destaque
 
-*   **Sistema de Gestão de Membros e Quotas** — Aplicação web full-stack desenvolvida para contexto empresarial (PHP, MySQL, JavaScript).
+*   **Sistema de Gestão de Membros e Quotas** — Aplicação web full-stack desenvolvida para contexto empresarial (PHP, MySQL, JS).
 *   **Plataforma de Agendamento Online** — Solução web para marcação e gestão de serviços (PHP, MySQL, JS).
-*   **Portefólio e Aplicações Web** — Projetos pessoais focados em arquitetura limpa, componentes reutilizáveis e boa experiência de utilização.
+*  
 
 ---
 
@@ -62,5 +62,5 @@ O meu foco está no desenvolvimento de soluções web completas, combinando lóg
 
 ## Contacto
 
-*   **LinkedIn:** [Link para o teu LinkedIn]
-*   **Email:** [O teu email profissional]
+*   **LinkedIn:** <a href="https://www.linkedin.com/in/pentelei-shlemko-b36569309/"> Pentelei Shlemko </a>
+*   **Email:** shlemko1708@gmail.com
